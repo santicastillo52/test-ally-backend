@@ -1,0 +1,28 @@
+{
+  "Argentina": {
+    "America/Argentina/Buenos_Aires": "Buenos Aires",
+    "America/Argentina/Cordoba": "Cordoba",
+    "America/Argentina/Mendoza": "Mendoza",
+    "America/Argentina/Salta": "Salta",
+    "America/Argentina/Ushuaia": "Ushuaia"
+  },
+  "Mexico": {
+    "America/Mexico_City": "Ciudad de México",
+    "America/Cancun": "Cancún",
+    "America/Chihuahua": "Chihuahua",
+    "America/Hermosillo": "Hermosillo",
+    "America/Tijuana": "Tijuana",
+    "America/Mazatlan": "Mazatlán",
+    "America/Monterrey": "Monterrey"
+  },
+  "estadosUnidos": {
+    "America/New_York": "New York",
+    "America/Chicago": "Chicago",
+    "America/Denver": "Denver",
+    "America/Los_Angeles": "Los Angeles",
+    "America/Phoenix": "Phoenix",
+    "America/Anchorage": "Anchorage",
+    "Pacific/Honolulu": "Honolulu"
+
+  }
+}
