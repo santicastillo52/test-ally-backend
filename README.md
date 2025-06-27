@@ -175,7 +175,7 @@ Todos los endpoints están disponibles en la URL de producción. Por ejemplo:
 - `https://test-ally-backend.onrender.com/login`
 - `https://test-ally-backend.onrender.com/users`
 - `https://test-ally-backend.onrender.com/tasks`
-- `https://test-ally-backend.onrender.com/weather/madrid`
+- `https://test-ally-backend.onrender.com/weather/mexico`
 
 ## 🤝 Contribución
 
